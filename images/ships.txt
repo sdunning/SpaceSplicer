@@ -1,0 +1,7 @@
+images/red.png
+images/blue.png
+images/green.png
+images/yellow.png
+images/purple.png
+images/gayship.png
+images/tiger.png
